@@ -57,10 +57,21 @@ Widget build(BuildContext context) {
 
 - https://medium.com/saugo360/https-medium-com-saugo360-flutter-using-overlay-to-display-floating-widgets-2e6d0e8decb9
 
-### InheritedModel
+### state生命周期
+
+- <https://blog.csdn.net/XG1057415595/article/details/86661703>
+
+### inheritedWidget
 
 - https://medium.com/flutter-community/flutter-widget-guide-inheritedmodel-widget-in-5-mins-or-less-a2b0dd8beb43
+- <https://www.jianshu.com/p/387e2454d590>
 
 ### 获取图片的宽度高度
 
 - https://stackoverflow.com/questions/44665955/how-do-i-determine-the-width-and-height-of-an-image-in-flutter
+
+### dart反射与元数据应用
+
+- <https://www.jianshu.com/p/d68278d19f79>
+
+- <https://www.jianshu.com/p/59f6c00b9f4e>
