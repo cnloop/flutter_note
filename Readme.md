@@ -75,3 +75,7 @@ Widget build(BuildContext context) {
 - <https://www.jianshu.com/p/d68278d19f79>
 
 - <https://www.jianshu.com/p/59f6c00b9f4e>
+
+### 初始化获取widget属性信息
+
+- <https://blog.csdn.net/weixin_34080571/article/details/88737783>
